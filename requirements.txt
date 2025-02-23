@@ -1,0 +1,11 @@
+streamlit
+openai
+Pillow
+requests
+python-dotenv
+jupytext
+streamlit-webrtc
+gradio 
+openai 
+torch
+
